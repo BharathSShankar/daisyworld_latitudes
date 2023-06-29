@@ -25,13 +25,14 @@ Install the required dependencies:
 $ pip install -r requirements.txt
 ```
 
-Usage
+## Usage
 To run the Daisyworld_latitudes widget, open the daisyworld_latitudes.ipynb notebook in Jupyter Notebook or JupyterLab. Execute the notebook cells to interact with the widget and visualize the Daisyworld simulation with latitude handling.
 
-Features
+## Features
 The key features of the Daisyworld_latitudes project include:
 
-Simulation of Daisyworld with latitude handling
-Visualization of daisy growth and coverage at various latitudes
-Analysis of temperature and albedo variations across latitudes
+- Simulation of Daisyworld with latitude handling
+- Visualization of daisy growth and coverage at various latitudes
+- Analysis of temperature and albedo variations across latitudes
+
 With this extension, users can explore how daisies adapt to different latitudes, providing insights into the effects of solar radiation and temperature changes on their growth.
