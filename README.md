@@ -22,7 +22,7 @@ $ git clone https://github.com/BharathSShankar/daisyworld_latitudes.git
 Install the required dependencies:
 
 ```ruby
-$ pip install -r requirements.txt
+$ pip install numpy matplotlib pandas
 ```
 
 ## Usage
